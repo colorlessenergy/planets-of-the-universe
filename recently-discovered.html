@@ -1,0 +1,14 @@
+---
+layout: news
+---
+
+<h1>recently discovered planets</h1>
+
+<ul>
+  {% for news in site.categories.recently-discovered %}
+    <li>
+      <a href="{{news.source}}">{{news.title}}</a>
+      <p>{{news.meta}}</p>
+    </li>
+  {% endfor %}
+</ul>

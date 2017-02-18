@@ -1,13 +1,22 @@
 html {
+  font-family: Georgia, serif;
   margin: 0;
   padding: 0;
-
-  font: normal 100%/1.4 Georgia,serif;
 }
 
 .current {
-  background-color: #000531;
-  color: #fff;
+  background: #000531;
+  color: white;
+}
+
+.nav {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+.nav > li {
+  display: inline-block;
 }
 
 .nav-top {
