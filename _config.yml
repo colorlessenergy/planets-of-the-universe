@@ -11,6 +11,9 @@ collections:
   page:
     title: page
     output: true
+  yml:
+    title: yml
+    output: true
 baseurl: "/planets-of-the-universe"
 exclude:
 - README.md
