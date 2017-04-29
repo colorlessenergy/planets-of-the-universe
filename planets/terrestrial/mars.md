@@ -1,7 +1,8 @@
 ---
-layout: planet
 title: Mars
-meta: Mars is the fourth planet from the Sun and the second smallest planet in the Solar System.
+layout: planet
+meta: Mars is the fourth planet from the Sun and the second smallest planet in the
+  Solar System.
 type: terrestrial
 discoverer: Galileo Galilei
 discovered: 1610

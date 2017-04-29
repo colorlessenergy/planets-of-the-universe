@@ -1,7 +1,8 @@
 ---
-layout: planet
 title: Saturn
-meta: Saturn is the sixth planet from the Sun and the second largest planet in the Solar System, after Jupiter.
+layout: planet
+meta: Saturn is the sixth planet from the Sun and the second largest planet in the
+  Solar System, after Jupiter.
 type: gas-giant
 discoverer: Galileo Galilei
 discovered: 1610

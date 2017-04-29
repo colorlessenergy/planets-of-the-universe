@@ -1,10 +1,10 @@
 ---
-layout: planet
 title: Makemake
+layout: planet
 meta: Makemake is a dwarf planet and perhaps the largest Kuiper belt object.
 type: dwarf
 discoverer: Michael E. Brown
-discovered: 2005-03-31
+discovered: 2005-03-31 00:00:00 Z
 orbit: 309 years
 radius: 739 km
 tilt: unknown

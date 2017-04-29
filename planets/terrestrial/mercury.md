@@ -1,7 +1,8 @@
 ---
-layout: planet
 title: Mercury
-meta: Mercury is the smallest and closest to the Sun of the eight planets in the Solar System.
+layout: planet
+meta: Mercury is the smallest and closest to the Sun of the eight planets in the Solar
+  System.
 type: terrestrial
 discoverer: Galileo Galilei
 discovered: 1610

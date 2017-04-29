@@ -1,7 +1,8 @@
 ---
-layout: planet
 title: Venus
-meta: Venus is the second planet from the Sun and often considered Earth’s sister planet.
+layout: planet
+meta: Venus is the second planet from the Sun and often considered Earth’s sister
+  planet.
 type: terrestrial
 discoverer: Galileo Galilei
 discovered: 1610

@@ -1,10 +1,11 @@
 ---
-layout: planet
 title: Pluto
-meta: Pluto is a large trans-Neptunian object in the Kuiper belt; the second-most-massive dwarf planet known in the Solar System.
+layout: planet
+meta: Pluto is a large trans-Neptunian object in the Kuiper belt; the second-most-massive
+  dwarf planet known in the Solar System.
 type: dwarf
 discoverer: Clyde W. Tombaugh
-discovered: 1930-02-18
+discovered: 1930-02-18 00:00:00 Z
 orbit: 247 years
 radius: 1161 km
 tilt: 119°

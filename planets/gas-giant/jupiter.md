@@ -1,7 +1,8 @@
 ---
-layout: planet
 title: Jupiter
-meta: Jupiter is the fifth planet from the Sun and the largest planet in the Solar System.
+layout: planet
+meta: Jupiter is the fifth planet from the Sun and the largest planet in the Solar
+  System.
 type: gas-giant
 discoverer: Galileo Galilei
 discovered: 1610

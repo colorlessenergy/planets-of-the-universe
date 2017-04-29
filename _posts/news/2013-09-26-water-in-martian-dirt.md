@@ -1,9 +1,12 @@
 ---
-layout: news-article
 title: Curiosity rover makes big water discovery in Mars dirt
-meta: Future Mars explorers may be able to get all the water they need out of the red dirt beneath their boots.
+date: 2013-09-26 00:00:00 Z
+categories:
+- news
+layout: news-article
+meta: Future Mars explorers may be able to get all the water they need out of the
+  red dirt beneath their boots.
 source: http://www.space.com/22949-mars-water-discovery-curiosity-rover.html
-category: news
 ---
 
 Future Mars explorers may be able to get all the water they need out of the red dirt beneath their boots, a new study suggests.
